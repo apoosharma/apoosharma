@@ -25,5 +25,7 @@ I paint, bake, and build things — there's something nice about making somethin
 ### Get in touch
 
 📍 Pondicherry, India 
-📬 sharmanpoorva297@gmail.com 
+---
+📬 sharmapoorva297@gmail.com 
+---
 🐙 [github.com/apoosharma](https://github.com/apoosharma)
